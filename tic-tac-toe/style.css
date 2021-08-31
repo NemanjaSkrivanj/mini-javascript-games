@@ -1,0 +1,23 @@
+body
+{
+    margin-top:50px;
+}
+#tabla
+{
+    width:310px;
+    height: 310px;
+    margin: auto;
+}
+
+.polje
+{
+    height:100px;
+    width:100px;
+    border:1px solid black;
+    float:left;
+    font-size: 60px;
+    text-align: center;
+    line-height: 100px;
+    user-select: none;
+    cursor: pointer;
+}
